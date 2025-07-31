@@ -1,4 +1,4 @@
-# 📈 Stock Price Prediction (Short-Term)
+# 📈 TASK# 02 Stock Price Prediction (Short-Term)
 
 ### 👩‍💻 By: Aafia Azhar  
 GitHub: [@aafia1](https://github.com/aafia1)
@@ -6,7 +6,7 @@ GitHub: [@aafia1](https://github.com/aafia1)
 ---
 
 ## 🎯 Task Objective
-This project is part of my AI/ML internship. The goal is to predict the **next day's closing stock price** using historical data with features like `Open`, `High`, `Low`, and `Volume`.
+This project is part of my AI/ML internship at **DevelopersHub Corporation**. The goal is to predict the **next day's closing stock price** using historical data with features like `Open`, `High`, `Low`, and `Volume`.
 
 ---
 
@@ -41,5 +41,3 @@ This project is part of my AI/ML internship. The goal is to predict the **next d
 3. Run `stock_price_prediction.ipynb` in Jupyter Notebook
 
 ---
-
-✅ Feel free to change the stock symbol or experiment with new features to improve accuracy.
